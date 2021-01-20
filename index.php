@@ -1,5 +1,5 @@
 <?php
-define("base_url", "https://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
+define("base_url", "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
 
 function my_simple_crypt( $string, $action = 'e' ) {
   $secret_key = 'html5';
