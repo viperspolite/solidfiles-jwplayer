@@ -1,5 +1,5 @@
 <?php
-define("base_url", "http://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
+define("base_url", "https://" . $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI']);
 
 function my_simple_crypt( $string, $action = 'e' ) {
   $secret_key = 'html5';
@@ -62,13 +62,13 @@ if($_POST['submit'] != ""){
 		<br />
 		<center>
 		<form action="" method="POST">
-			<input type="text" size="70" name="url" value="http://www.solidfiles.com/v/NjdPqzy5k2pDy"/>
+			<input type="text" size="70" name="url" value="https://www.solidfiles.com/v/NjdPqzy5k2pDy"/>
 			<input type="submit" value="GET" name="submit" />
 			</form>
 		</center>
 		<br/>
 
-		<div id="myElement"><center>Colocar URL Example: http://www.solidfiles.com/v/NjdPqzy5k2pDy</center></div>
+		<div id="myElement"><center>Colocar URL Example: https://www.solidfiles.com/v/NjdPqzy5k2pDy</center></div>
 
 		<br>
 		<div><?php if($iframeid){echo "Embed"; echo '<textarea style="margin:10px;width: 97%;height: 80px;">&lt;iframe src="'.base_url.'embed.php?url='.$iframeid.'" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen&gt;&lt;/iframe&gt;</textarea>';}?></div>
