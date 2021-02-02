@@ -66,7 +66,7 @@ $title1 = $second_title[0];
         width: '100%',
         aspectratio: '16:9',
         skin: {
-	      name: "thin"
+	      name: "yellow"
       },
       });
     </script>
