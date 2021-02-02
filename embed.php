@@ -45,12 +45,15 @@ $title1 = $second_title[0];
       <br />
       <center>
 		<img height="80%" width="60%" src="https://i.ibb.co/LRC4CQg/Copy-of-MOD-APK-1.png"/>
-      </center>
+      
     <br />
 	<script src="bin/jwplayer-7.3.6/jwplayer.js"></script>	
 	<link href="bin/skins/thin.min.css" rel="stylesheet" type="text/css" />
 	<script type="text/javascript">jwplayer.key="Ywok59g9j93GtuSU7+axNzjIp/TBfiK4s0vvYg==";</script>
-    <style type="text/css">*{margin:0;padding:0}#container{position:absolute;width:60%!important;height:80%!important}</style>
+    <style type="text/css">*{margin:0;padding:0}#container{position:absolute;width:100%!important;height:100%!important}</style>
+      <br />
+	<img height="80%" width="60%" src="https://i.ibb.co/LRC4CQg/Copy-of-MOD-APK-1.png"/>
+      <br />
     <div id='container'></div>
     <script>var playerInstance = jwplayer('container');
       playerInstance.setup({
@@ -64,5 +67,6 @@ $title1 = $second_title[0];
       },
       });
     </script>
+  </center>	      
   </body>
 </html>
