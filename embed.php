@@ -44,7 +44,7 @@ $title1 = $second_title[0];
   <div id="myElement"></div>
       <br />
       <center>
-		<img height="80%" width="60%" src="https://i.ibb.co/s1JDgWk/Copy-of-MOD-APK.png"/>
+		<img height="720" width="100%" src="https://i.ibb.co/s1JDgWk/Copy-of-MOD-APK.png"/>
       
     <br />
 	<script src="bin/jwplayer-7.3.6/jwplayer.js"></script>	
