@@ -53,7 +53,7 @@ $title1 = $second_title[0];
     <style type="text/css">*{margin:0;padding:0}#container{position:absolute;width:100%!important;height:70%!important}</style>
       <br />
 	<p><a href="https://telegram.me/Streamable_cinemas">
-<img src="https://lh3.googleusercontent.com/-T8I357fL-eA/YBkJvmaCQpI/AAAAAAAADrY/wwYLrIqLFOkwf658ZLiFReTLm64Wc_dhgCLcBGAsYHQ/h85/join-our-telegram-channel-300x71.png" alt="W3Schools.com" width="300" height="71">
+<img src="https://lh3.googleusercontent.com/-T8I357fL-eA/YBkJvmaCQpI/AAAAAAAADrY/wwYLrIqLFOkwf658ZLiFReTLm64Wc_dhgCLcBGAsYHQ/h85/join-our-telegram-channel-300x71.png" alt="Join telegram channel" width="300" height="71">
 </a></p>
 
       <br />
