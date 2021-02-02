@@ -40,6 +40,7 @@ $title1 = $second_title[0];
   <title><?php echo $title1?></title>
 </head>
 <body>
+
   <div id="myElement"></div>
 	<script src="bin/jwplayer-7.3.6/jwplayer.js"></script>	
 	<link href="bin/skins/thin.min.css" rel="stylesheet" type="text/css" />
@@ -58,5 +59,11 @@ $title1 = $second_title[0];
       },
       });
     </script>
-</body>
+	<div>
+      <br />
+      <center>
+		<img height="80%" width="60%" src="https://i.ibb.co/LRC4CQg/Copy-of-MOD-APK-1.png"/>
+      </center>
+      </div>
+  </body>
 </html>
